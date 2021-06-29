@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... [Shop-V e-commerce](https://github.com/serzhan181/shop-v)
 - 🌱 I’m currently learning ... Algorithms, Rust 
